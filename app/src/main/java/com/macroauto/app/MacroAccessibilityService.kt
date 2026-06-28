@@ -1,1 +1,116 @@
-cGFja2FnZSBjb20ubWFjcm9hdXRvLmFwcAoKaW1wb3J0IGFuZHJvaWQuYWNjZXNzaWJpbGl0eXNlcnZpY2UuQWNjZXNzaWJpbGl0eVNlcnZpY2UKaW1wb3J0IGFuZHJvaWQuYWNjZXNzaWJpbGl0eXNlcnZpY2UuR2VzdHVyZURlc2NyaXB0aW9uCmltcG9ydCBhbmRyb2lkLmdyYXBoaWNzLlBhdGgKaW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuUmVjdAppbXBvcnQgYW5kcm9pZC5vcy5IYW5kbGVyCmltcG9ydCBhbmRyb2lkLm9zLkxvb3BlcgppbXBvcnQgYW5kcm9pZC52aWV3LmFjY2Vzc2liaWxpdHkuQWNjZXNzaWJpbGl0eUV2ZW50CmltcG9ydCBhbmRyb2lkLnZpZXcuYWNjZXNzaWJpbGl0eS5BY2Nlc3NpYmlsaXR5Tm9kZUluZm8KCisvKioKKiBQZXJmb3JtcyB0aGUgcmVjb3JkZWQgdGFwcyBieSBkaXNwYXRjaGluZyBnZXN0dXJlcy4gTm8gcm9vdCByZXF1aXJlZC4KKiBIb2xkcyBhIHN0YXRpYyBpbnN0YW5jZSBzbyB0aGUgb3ZlcmxheSBjYW4gdHJpZ2dlciBwbGF5YmFjay4KKiovCmNsYXNzIE1hY3JvQWNjZXNzaWJpbGl0eVNlcnZpY2UgOiBBY2Nlc3NpYmlsaXR5U2VydmljZSgpIHsKCiAgICBwcml2YXRlIHZhbCBoYW5kbGVyID0gSGFuZGxlcihMb29wZXIuZ2V0TWFpbkxvb3BlcigpKQogICAgQFZvbGF0aWxlIHByaXZhdGUgdmFyIHBsYXlpbmcgPSBmYWxzZQogICAgQFZvbGF0aWxlIHByaXZhdGUgdmFyIGRldGVjdENocm9tZU1vZGUgPSBmYWxzZQogICAgQFZvbGF0aWxlIHByaXZhdGUgdmFyIGNocm9tZUNsaWNrZWRTdWNjZXNzZnVsbHkgPSBmYWxzZQoKICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIEBWb2xhdGlsZSB2YXIgaW5zdGFuY2U6IE1hY3JvQWNjZXNzaWJpbGl0eVNlcnZpY2U/ID0gbnVsbAogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBvblNlcnZpY2VDb25uZWN0ZWQoKSB7CiAgICAgICAgc3VwZXIub25TZXJ2aWNlQ29ubmVjdGVkKCkKICAgICAgICBpbnN0YW5jZSA9IHRoaXMKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25BY2Nlc3NpYmlsaXR5RXZlbnQoZXZlbnQ6IEFjY2Vzc2liaWxpdHlFdmVudD8pIHsKICAgICAgICBpZiAoZGV0ZWN0Q2hyb21lTW9kZSkgewogICAgICAgICAgICBydW5EZXRlY3Rpb25Db3JlKCkKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gcnVuRGV0ZWN0aW9uQ29yZSgpIHsKICAgICAgICBpZiAoY2hyb21lQ2xpY2tlZVN1Y2Nlc3NmdWxseSkgcmV0dXJuCiAgICAgICAgdmFsIHJvb3ROb2RlID0gcm9vdEluQWN0aXZlV2luZG93ID86IHJldHVybgogICAgICAgIGZpbmRBbmRDbGlja0Nocm9tZShyb290Tm9kZSkKICAgIH0KCiAgICBwcml2YXRl fXVuIGZpbmRBbmRDbGlja0Nocm9tZShub2RlOiBBY2Nlc3NpYmlsaXR5Tm9kZUluZm8pIHsKICAgICAgICBpZiAoY2hyb21lQ2xpY2tlZVN1Y2Nlc3NmdWxseSkgcmV0dXJuCgogICAgICAgIHZhbCB0ZXh0ID0gbm9kZS50ZXh0Py50b1N0cmluZygpID86ICIiCiAgICAgICAgdmFsIGRlc2MgPSBub2RlLmNvbnRlbnREZXNjcmlwdGlvbj8udG9TdHJpbmcoKSA/OiAiIgogICAgICAgIHZhbCBjb250YWluc0Nocm9tZSA9IHRleHQuY29udGFpbnMoIkNocm9tZSIsIGlnbm9yZUNhc2UgPSB0cnVlKSB8fCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzYy5jb250YWlucygiQ2hyb21lIiwgaWdub3JlQ2FzZSA9IHRydWUpCgogICAgICAgIGlmIChjb250YWluc0Nocm9tZSkgewogICAgICAgICAgICB2YWwgcmVjdCA9IFJlY3QoKQogICAgICAgICAgICBub2RlLmdldEJvdW5kc0luU2NyZWVuKHJlY3QpCiAgICAgICAgICAgIHRhcChyZWN0LmNlbnRlclgoKS50b0Zsb2F0KCksIHJlY3QuY2VudGVyWSgpLnRvRmxvYXQoKSkgewogICAgICAgICAgICAgICAgY2hyb21lQ2xpY2tlZVN1Y2Nlc3NmdWxseSA9IHRydWUKICAgICAgICAgICAgICAgIGRldGVjdENocm9tZU1vZGUgPSBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybgogICAgICAgIH0KCiAgICAgICAgZm9yIChpIGluIDAgdW50aWwgbm9kZS5jaGlsZENvdW50KSB7CiAgICAgICAgICAgIHZhbCBjaGlsZCA9IG5vZGUuZ2V0Q2hpbGQoaSkgPzogY29udGludWUKICAgICAgICAgICAgZmluZEFuZENsaWNrQ2hyb21lKGNoaWxkKQogICAgICAgICAgICBjaGlsZC5yZWN5Y2xlKCkKICAgICAgICB9CiAgICB9CgogICAgZnVuIHN0YXJ0Q2hyb21lRGV0ZWN0aW9uKCkgewogICAgICAgIGNocm9tZUNsaWNrZWRTdWNjZXNzZnVsbHkgPSBmYWxzZQogICAgICAgIGRldGVjdENocm9tZU1vZGUgPSB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIG9uSW50ZXJydXB0KCkgeyBzdG9wKCkgfQoKICAgIG92ZXJyaWRlIGZ1biBvbkRlc3Ryb3koKSB7CiAgICAgICAgaW5zdGFuY2UgPSBudWxsCiAgICAgICAgc3VwZXIub25EZXN0cm95KCkKICAgIH0KCiAgICBmdW4gc3RvcCgpIHsgCiAgICAgICAgcGxheWluZyA9IGZhbHNlIAogICAgICAgIGRldGVjdENocm9tZU1vZGUgPSBmYWxzZQogICAgfQoKICAgIC8qKiBQbGF5IHN0ZXBzIFtyZXBlYXR0IHRpbWVzICgwID0gdW50aWwgc3RvcHBlZCkuICovCiAgICBmdW4gcGxheShzdGVwczogTGlzdDxNYWNyb1N0ZXA+LCByZXBlYXQ6IEludCwgb25GaW5pc2hlZDogKCkgLT4gVW5pdCkgewogICAgICAgIGlmIChzdGVwcy5pc0VtcHR5KCkpIHsgb25GaW5pc2hlZCgpOyByZXR1cm4gfQogICAgICAgIHBsYXlpbmcgPSB0cnVlCiAgICAgICAgdmFyIGxvb3AgPSAwCiAgICAgICAgZnVuIHJ1bkxvb3AoKSB7CiAgICAgICAgICAgIGlmICghcGxheWluZykgeyBvbmZpbmlzaGVkKCk7IHJldHVybiB9CiAgICAgICAgICAgIHJ1blN0ZXBzKHN0ZXBzLCAwKSB7CiAgICAgICAgICAgICAgICBsb29wKysKICAgICAgICAgICAgICAgIGlmICghcGxheWluZyB8fCAocmVwZWF0ID4gMCAmJiBsb29wID49IHJlcGVhdCkpIHsgcGxheWluZyA9IGZhbHNlOyBvbmZpbmlzaGVkKCkgfQogICAgICAgICAgICAgICAgZWxzZSBoYW5kbGVyLnBvc3REZWxheWVkKHsgcnVuTG9vcCgpIH0sIDMwMCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBydW5Mb29wKCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBydW5TdGVwcyhzdGVwczogTGlzdDxNYWNyb1N0ZXA+LCBpbmRleDogSW50LCBkb25lOiAoKSAtPiBVbml0KSB7CiAgICAgICAgaWYgKCFwbGF5aW5nIHx8IGluZGV4ID49IHN0ZXBzLnNpemVKSB7IGRvbmUoKTsgcmV0dXJuIH0KICAgICAgICB2YWwgcyA9IHN0ZXBzW2luZGV4XQogICAgICAgIGhhbmRsZXIucG9zdERlbGF5ZWQoewogICAgICAgICAgICBpZiAoIXBsYXlpbmcpIHsgZG9uZSgpOyByZXR1cm5AcG9zdERlbGF5ZWQgfQogICAgICAgICAgICB0YXAocy54LCBzLnkpIHsgcnVuU3RlcHMoc3RlcHMsIGluZGV4ICsgMSwgZG9uZSkgfQogICAgICAgIH0sIHMuZGVsYXlNcy5jb2VyY2VBdExlYXN0KDApKQogICAgfQoKICAgIHByaXZhdGUgZnVuIHRhcCh4OiBGbG9hdCwgeTogRmxvYXQsIGFmdGVyOiAoKSAtPiBVbml0ID0ge30pIHsKICAgICAgICB2YWwgcGF0aCA9IFBhdGgoKS5hcHBseSB7IG1vdmVUbyh4LCB5KSB9CiAgICAgICAgdmFsIGdlc3R1cmUgPSBHZXN0dXJlRGVzY3JpcHRpb24uQnVpbGRlcigpCiAgICAgICAgICAgIC5hZGRTdHJva2UoR2VzdHVyZURlc2NyaXB0aW9uLlN0cm9rZURlc2NyaXB0aW9uKHBhdGgsIDAsIDYwKSkKICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICBkaXNwYXRjaEdlc3R1cmUoZ2VzdHVyZSwgb2JqZWN0IDogR2VzdHVyZVJlc3VsdENhbGxiYWNrKCkgewogICAgICAgICAgICBvdmVycmlkZSBmdW4gb25Db21wbGV0ZWQoZDogR2VzdHVyZURlc2NyaXB0aW9uPykgeyBhZnRlcigpIH0KICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQ2FuY2VsbGVkKGQ6IEdlc3R1cmVEZXNjcmlwdGlvbj8pIHsgYWZ0ZXIoKSB9CiAgICAgICAgfSwgaGFuZGxlcikKICAgIH0KfQo=
+package com.macroauto.app
+
+import android.accessibilityservice.AccessibilityService
+import android.accessibilityservice.GestureDescription
+import android.graphics.Path
+import android.graphics.Rect
+import android.os.Handler
+import android.os.Looper
+import android.view.accessibility.AccessibilityEvent
+import android.view.accessibility.AccessibilityNodeInfo
+
+class MacroAccessibilityService : AccessibilityService() {
+
+    private val handler = Handler(Looper.getMainLooper())
+    @Volatile private var playing = false
+    @Volatile private var detectChromeMode = false
+    @Volatile private var chromeClickedSuccessfully = false
+
+    companion object {
+        @Volatile var instance: MacroAccessibilityService? = null
+    }
+
+    override fun onServiceConnected() {
+        super.onServiceConnected()
+        instance = this
+    }
+
+    override fun onAccessibilityEvent(event: AccessibilityEvent?) {
+        if (detectChromeMode) {
+            runDetectionCore()
+        }
+    }
+
+    private fun runDetectionCore() {
+        if (chromeClickedSuccessfully) return
+        val rootNode = rootInActiveWindow ?: return
+        findAndClickChrome(rootNode)
+    }
+
+    private fun findAndClickChrome(node: AccessibilityNodeInfo) {
+        if (chromeClickedSuccessfully) return
+
+        val text = node.text?.toString() ?: ""
+        val desc = node.contentDescription?.toString() ?: ""
+        val containsChrome = text.contains("Chrome", ignoreCase = true) || 
+                             desc.contains("Chrome", ignoreCase = true)
+
+        if (containsChrome) {
+            val rect = Rect()
+            node.getBoundsInScreen(rect)
+            tap(rect.centerX().toFloat(), rect.centerY().toFloat()) {
+                chromeClickedSuccessfully = true
+                detectChromeMode = false
+            }
+            return
+        }
+
+        for (i in 0 until node.childCount) {
+            val child = node.getChild(i) ?: continue
+            findAndClickChrome(child)
+            child.recycle()
+        }
+    }
+
+    fun startChromeDetection() {
+        chromeClickedSuccessfully = false
+        detectChromeMode = true
+    }
+
+    override fun onInterrupt() { stop() }
+
+    override fun onDestroy() {
+        instance = null
+        super.onDestroy()
+    }
+
+    fun stop() { 
+        playing = false 
+        detectChromeMode = false
+    }
+
+    fun play(steps: List<MacroStep>, repeat: Int, onFinished: () -> Unit) {
+        if (steps.isEmpty()) { onFinished(); return }
+        playing = true
+        var loop = 0
+        fun runLoop() {
+            if (!playing) { onFinished(); return }
+            runSteps(steps, 0) {
+                loop++
+                if (!playing || (repeat > 0 && loop >= repeat)) { playing = false; onFinished() }
+                else handler.postDelayed({ runLoop() }, 300)
+            }
+        }
+        runLoop()
+    }
+
+    private fun runSteps(steps: List<MacroStep>, index: Int, done: () -> Unit) {
+        if (!playing || index >= steps.size) { done(); return }
+        val s = steps[index]
+        handler.postDelayed({
+            if (!playing) { done(); return@postDelayed }
+            tap(s.x, s.y) { runSteps(steps, index + 1, done) }
+        }, s.delayMs.coerceAtLeast(0))
+    }
+
+    private fun tap(x: Float, y: Float, after: () -> Unit = {}) {
+        val path = Path().apply { moveTo(x, y) }
+        val gesture = GestureDescription.Builder()
+            .addStroke(GestureDescription.StrokeDescription(path, 0, 60))
+            .build()
+        dispatchGesture(gesture, object : GestureResultCallback() {
+            override fun onCompleted(d: GestureDescription?) { after() }
+            override fun onCancelled(d: GestureDescription?) { after() }
+        }, handler)
+    }
+}
