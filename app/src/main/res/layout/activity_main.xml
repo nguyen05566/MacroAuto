@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MacroAuto"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:paddingBottom="16dp" />
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:paddingBottom="24dp" />
+
+    <Button
+        android:id="@+id/btnOverlayPerm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Cấp quyền hiển thị trên ứng dụng khác" />
+
+    <Button
+        android:id="@+id/btnAccessibility"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2. Bật Accessibility cho MacroAuto" />
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3. Bật nút nổi điều khiển" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="24dp"
+        android:textSize="13sp"
+        android:text="Cách dùng: bật nút nổi → ● REC để ghi (chạm các điểm) → ● REC lần nữa để lưu → ▶ PLAY phát lại (lặp 5 lần) → ■ STOP để dừng." />
+
+</LinearLayout>

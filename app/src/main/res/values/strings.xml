@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MacroAuto</string>
+    <string name="accessibility_desc">Cho phép MacroAuto thực hiện thao tác chạm/vuốt tự động để phát lại macro.</string>
+</resources>
